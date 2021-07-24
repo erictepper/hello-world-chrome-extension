@@ -1,0 +1,13 @@
+{
+  "name": "hello-world-chrome-extension",
+  "description": "Following the Chrome extensions Getting Started guide https://developer.chrome.com/docs/extensions/mv3/getstarted/",
+  "author": {
+    "name": "Eric Tepper",
+    "url": "https://github.com/erictepper/"
+  },
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/chrome": "0.0.148"
+  }
+}
